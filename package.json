@@ -1,0 +1,19 @@
+{
+  "name": "vdss",
+  "version": "1.0.0",
+  "description": "VDSS Tech",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimishbhandari/vdss-tech.git"
+  },
+  "author": "codebugged",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nimishbhandari/vdss-tech/issues"
+  },
+  "homepage": "https://github.com/nimishbhandari/vdss-tech#readme"
+}
